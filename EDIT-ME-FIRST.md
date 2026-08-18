@@ -35,3 +35,9 @@ Service pages live in `/services/`. The site does NOT advertise EICRs.
 ## Brand language
 - Use `AHE` in descriptive copy instead of repeatedly spelling out Apex.
 - Local identity wording is `Local Ovenden Lad`.
+
+
+## V3 wording rules
+- Descriptive business copy uses `AHE`.
+- Formal company name stays in the logo, titles and business identity.
+- Local wording is always `Local Ovenden Lad`.
