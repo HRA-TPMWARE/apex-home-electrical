@@ -31,3 +31,7 @@ Edit `reviews/index.html`. Current review text is placeholder text only.
 
 ## Services
 Service pages live in `/services/`. The site does NOT advertise EICRs.
+
+## Brand language
+- Use `AHE` in descriptive copy instead of repeatedly spelling out Apex.
+- Local identity wording is `Local Ovenden Lad`.
