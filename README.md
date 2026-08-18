@@ -22,3 +22,10 @@ Open `index.html` in a browser.
 - Connect a proper form endpoint if desired.
 - Add/verify Google Search Console after DNS cutover.
 - Preserve or redirect any old URLs that Google already indexes.
+
+## Visual redesign
+- Dark Apex / electrical identity with yellow accent
+- Mobile sticky call button
+- Google review trust layer (5.0 / 15 reviews at build time)
+- Real-work gallery section ready for verified Apex photos
+- Stronger CTA hierarchy across service pages
